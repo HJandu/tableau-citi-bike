@@ -1,9 +1,8 @@
 # <p align="center"> <ins>Tableau Citi Bike</ins> </p>
 
-Click [here](https://public.tableau.com/app/profile/hardip.jandu5326/vizzes) to view the visualizations, maps, dashboards and story.
+## <p align="center"> Click [here](https://public.tableau.com/app/profile/hardip.jandu5326/vizzes) to view the visualisations, maps, dashboards and story in Tableau.</p>
 
-
-![image](https://github.com/HJandu/tableau-citi-bike/assets/116304118/e24698e2-d321-4d3c-ab5c-f52849e38dd8)
+   ![image](https://github.com/HJandu/tableau-citi-bike/assets/116304118/e24698e2-d321-4d3c-ab5c-f52849e38dd8)
 
 
 ## <ins>Background</ins>
