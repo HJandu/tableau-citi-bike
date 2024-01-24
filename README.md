@@ -1,5 +1,7 @@
 # <p align="center"> <ins>Tableau Citi Bike</ins> </p>
 
+Click [here](https://public.tableau.com/app/profile/hardip.jandu5326/vizzes) to view the 
+
 
 ![image](https://github.com/HJandu/tableau-citi-bike/assets/116304118/e24698e2-d321-4d3c-ab5c-f52849e38dd8)
 
@@ -44,6 +46,5 @@ I used the visualizations to design a dashboard for each phenomenon. The dashboa
 
 Finally, I created a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
-To access the Citi Bike data in Tableau, please click [here](https://public.tableau.com/app/profile/hardip.jandu5326/vizzes)
 
 &copy;Hardip Jandu
