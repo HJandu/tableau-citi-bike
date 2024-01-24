@@ -12,7 +12,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so my first task on the job is to build a set of data reports to provide the answers.
 
 ## <ins>About</ins>
-My task was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. I was asked to design 2–5 visualizations for each discovered phenomenon (4–10 total). I chose to work with 2018, 2019 and 2020 datasets, which I merged to help answer the follwoing questions. 
+My task was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. I was asked to design 2–5 visualizations for each discovered phenomenon (4–10 total). I chose to work with 2018, 2019 and 2020 datasets, which I merged to help answer my chosen questions. 
 
 The following are some of the questions I looked at:
 
@@ -45,3 +45,5 @@ I used the visualizations to design a dashboard for each phenomenon. The dashboa
 Finally, I created a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 To access the Citi Bike data in Tableau, please click [here](https://public.tableau.com/app/profile/hardip.jandu5326/vizzes)
+
+&copy;Hardip Jandu
