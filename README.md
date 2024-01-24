@@ -2,7 +2,11 @@
 
 ## <p align="center"> Click [here](https://public.tableau.com/app/profile/hardip.jandu5326/vizzes) to view the visualisations, maps, dashboards and story in Tableau.</p>
 
-   ![image](https://github.com/HJandu/tableau-citi-bike/assets/116304118/e24698e2-d321-4d3c-ab5c-f52849e38dd8)
+<p align="center">
+<img src="images/citi-bike-station-bikes.jpg" 
+/p>
+
+ 
 
 
 ## <ins>Background</ins>
